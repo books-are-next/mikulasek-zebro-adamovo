@@ -1,21 +1,19 @@
 ---
-title: ''
+title: Římsa
 contentType: prose
 ---
 
-Římsa
+_Tak jemně — déšť na římse zní.  
+A není nikomu — jak je mně._
 
-> Tak jemně — déšť na římse zní.  
-> A není nikomu — jak je mně.
+_A nikdo snad — vzkaz nezaslech tu,  
+nejdráždivější sdělení  
+mé kůži od tvých něžných nehtů,_
 
-> A nikdo snad — vzkaz nezaslech tu,  
-> nejdráždivější sdělení  
-> mé kůži od tvých něžných nehtů,
+_že i z té dálky do mne tnout  
+deštíkem prstů,  
+prsty deštíku  
+nikdy, ach, nikdy nezapomenou…_
 
-> že i z té dálky do mne tnout  
-> deštíkem prstů,  
-> prsty deštíku  
-> nikdy, ach, nikdy nezapomenou…
-
-> Však římsy plech dál jemně zní,  
-> jak skomíral by v slastném šeptu.
+_Však římsy plech dál jemně zní,  
+jak skomíral by v slastném šeptu._

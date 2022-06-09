@@ -1,43 +1,41 @@
 ---
-title: ''
+title: Malý místopis
 contentType: prose
 ---
 
-Malý místopis
+_NICOV  
+Neříkám nic! Buď ticho!  
+Já mlčím.  
+Necítím nic. A všechno  
+v té obci Nicov  
+pod černým smrčím._
 
-> NICOV  
-> Neříkám nic! Buď ticho!  
-> Já mlčím.  
-> Necítím nic. A všechno  
-> v té obci Nicov  
-> pod černým smrčím.
+_KVILDA  
+Vlci už šílí.  
+A v týle ježí se jim srst.  
+Však jeden prst,  
+kost samá, samý kloub,  
+masa se nedokvílí._
 
-> KVILDA  
-> Vlci už šílí.  
-> A v týle ježí se jim srst.  
-> Však jeden prst,  
-> kost samá, samý kloub,  
-> masa se nedokvílí.
+_(Prst Joricka!)_
 
-> (Prst Joricka!)
+_Je hlad.  
+Morek a dřeň.  
+A duše.  
+Kosti, co nám zbyly.  
+Masa se nedokvílí,  
+kdo kope si sám hrob  
+a jiným…_
 
-> Je hlad.  
-> Morek a dřeň.  
-> A duše.  
-> Kosti, co nám zbyly.  
-> Masa se nedokvílí,  
-> kdo kope si sám hrob  
-> a jiným…
+_Že někdo naříká?  
+I nářek chodí spát.  
+A někdo hlouběj, hloub  
+pochová hrobníka._
 
-> Že někdo naříká?  
-> I nářek chodí spát.  
-> A někdo hlouběj, hloub  
-> pochová hrobníka.
+_LENORA  
+Že zemřeli? Ach, zemřeli!  
+Pln mrtvých je svět.  
+Těch, umřít co měli i neměli.  
+Když smrt je plod — nač květ?_
 
-> LENORA  
-> Že zemřeli? Ach, zemřeli!  
-> Pln mrtvých je svět.  
-> Těch, umřít co měli i neměli.  
-> Když smrt je plod — nač květ?
-
-Na sv. Annu 26. 7. 72 (Ondrovi)
+_Na sv. Annu 26. 7. 72 (Ondrovi)_

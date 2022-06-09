@@ -1,14 +1,12 @@
 ---
-title: ''
+title: Dimenze
 contentType: prose
 ---
 
-Dimenze
+_— I chvilička s tebou je mnoho.  
+— Noc s tebou celá, je málo._
 
-> — I chvilička s tebou je mnoho.  
-> — Noc s tebou celá, je málo.
+_Nakonec oba vynášejí z domu  
+pro lásku neskonalou._
 
-> Nakonec oba vynášejí z domu  
-> pro lásku neskonalou.
-
-> — Srdcem a nohama napřed.
+_— Srdcem a nohama napřed._

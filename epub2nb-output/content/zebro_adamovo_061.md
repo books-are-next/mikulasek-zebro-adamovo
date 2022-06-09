@@ -1,24 +1,22 @@
 ---
-title: ''
+title: Sbohem
 contentType: prose
 ---
 
-Sbohem
+_Tak tedy sbohem.  
+Srdce se už trhá —  
+jedno od druhého._
 
-> Tak tedy sbohem.  
-> Srdce se už trhá —  
-> jedno od druhého.
+_Tak tedy sbohem —  
+trhá se i mlha  
+a zbývá jenom rána  
+neúprosného slunce._
 
-> Tak tedy sbohem —  
-> trhá se i mlha  
-> a zbývá jenom rána  
-> neúprosného slunce.
+_Ale kde je luna?  
+Má lúna? Moje lůna?  
+(Vypila ji kuna.)_
 
-> Ale kde je luna?  
-> Má lúna? Moje lůna?  
-> (Vypila ji kuna.)
-
-> Zhluboka lesa ozývá se vlha  
-> sladkého želu  
-> i nejhořčího konce.  
-> A teče z něho cosi červeného.
+_Zhluboka lesa ozývá se vlha  
+sladkého želu  
+i nejhořčího konce.  
+A teče z něho cosi červeného._

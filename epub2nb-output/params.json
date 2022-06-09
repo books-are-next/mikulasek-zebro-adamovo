@@ -8,21 +8,23 @@
       "modified": "2020-10-29T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
-      "h3": "",
-      "h4": "",
-      "hr": "",
+      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "brBefore": ".+12.0\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\ne.bookversebezpredsazeni.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -801,55 +803,55 @@
         "xhtml": "zebro_adamovo_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Míč",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_006.md",
         "xhtml": "zebro_adamovo_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Císaři chudých",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_007.md",
         "xhtml": "zebro_adamovo_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Svatební píseň o růži",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_008.md",
         "xhtml": "zebro_adamovo_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Chvění milenčino",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_009.md",
         "xhtml": "zebro_adamovo_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vodní krajina",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_010.md",
         "xhtml": "zebro_adamovo_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Komorní hudba",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_011.md",
         "xhtml": "zebro_adamovo_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kresba tuší",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_012.md",
         "xhtml": "zebro_adamovo_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Noční",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_013.md",
         "xhtml": "zebro_adamovo_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sólo na schodech",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_014.md",
         "xhtml": "zebro_adamovo_014.xhtml"
@@ -861,109 +863,109 @@
         "xhtml": "zebro_adamovo_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Menší noční hudba",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_016.md",
         "xhtml": "zebro_adamovo_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mé barvy",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_017.md",
         "xhtml": "zebro_adamovo_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Co má moje milá",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_018.md",
         "xhtml": "zebro_adamovo_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Obrázek",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_019.md",
         "xhtml": "zebro_adamovo_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Loučení",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_020.md",
         "xhtml": "zebro_adamovo_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Římsa",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_021.md",
         "xhtml": "zebro_adamovo_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Spíš",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_022.md",
         "xhtml": "zebro_adamovo_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedmé patro",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_023.md",
         "xhtml": "zebro_adamovo_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Něžná",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_024.md",
         "xhtml": "zebro_adamovo_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Číše",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_025.md",
         "xhtml": "zebro_adamovo_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Otavy",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_026.md",
         "xhtml": "zebro_adamovo_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čekání",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_027.md",
         "xhtml": "zebro_adamovo_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Otázky",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_028.md",
         "xhtml": "zebro_adamovo_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jakýsi vítr",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_029.md",
         "xhtml": "zebro_adamovo_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lesní motivy pozdního října",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_030.md",
         "xhtml": "zebro_adamovo_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jitro",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_031.md",
         "xhtml": "zebro_adamovo_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Listopadové elegie",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_032.md",
         "xhtml": "zebro_adamovo_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Přípitek",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_033.md",
         "xhtml": "zebro_adamovo_033.xhtml"
@@ -975,61 +977,61 @@
         "xhtml": "zebro_adamovo_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ars poetica I",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_035.md",
         "xhtml": "zebro_adamovo_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Malý místopis",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_036.md",
         "xhtml": "zebro_adamovo_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poslední navštívení",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_037.md",
         "xhtml": "zebro_adamovo_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Neslavný monolog",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_038.md",
         "xhtml": "zebro_adamovo_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na chvíli v očistci",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_039.md",
         "xhtml": "zebro_adamovo_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Za hrob",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_040.md",
         "xhtml": "zebro_adamovo_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Žárlivost",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_041.md",
         "xhtml": "zebro_adamovo_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úpění",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_042.md",
         "xhtml": "zebro_adamovo_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "A to je vše",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_043.md",
         "xhtml": "zebro_adamovo_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Modlitba",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_044.md",
         "xhtml": "zebro_adamovo_044.xhtml"
@@ -1041,109 +1043,109 @@
         "xhtml": "zebro_adamovo_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Adamův pohled zleže",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_046.md",
         "xhtml": "zebro_adamovo_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jedna z verzí",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_047.md",
         "xhtml": "zebro_adamovo_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Černá hvězda",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_048.md",
         "xhtml": "zebro_adamovo_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Povzdechy",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_049.md",
         "xhtml": "zebro_adamovo_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Snědený hlad",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_050.md",
         "xhtml": "zebro_adamovo_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cosi",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_051.md",
         "xhtml": "zebro_adamovo_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tvá tvář",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_052.md",
         "xhtml": "zebro_adamovo_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Umlčená ústa",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_053.md",
         "xhtml": "zebro_adamovo_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pod platanem",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_054.md",
         "xhtml": "zebro_adamovo_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ars poetica II",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_055.md",
         "xhtml": "zebro_adamovo_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dimenze",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_056.md",
         "xhtml": "zebro_adamovo_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rozsudek",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_057.md",
         "xhtml": "zebro_adamovo_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hrana za nás",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_058.md",
         "xhtml": "zebro_adamovo_058.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stébélko",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_059.md",
         "xhtml": "zebro_adamovo_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kořist",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_060.md",
         "xhtml": "zebro_adamovo_060.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sbohem",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_061.md",
         "xhtml": "zebro_adamovo_061.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Osud",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_062.md",
         "xhtml": "zebro_adamovo_062.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Průvody lásky",
         "subtitleSuggest": "",
         "filename": "zebro_adamovo_063.md",
         "xhtml": "zebro_adamovo_063.xhtml"
@@ -1238,6 +1240,6 @@
       "user": "books-are-next",
       "repo": "mikulasek-zebro-adamovo"
     },
-    "generatedAt": 1652420668394
+    "generatedAt": 1654774334229
   }
 }

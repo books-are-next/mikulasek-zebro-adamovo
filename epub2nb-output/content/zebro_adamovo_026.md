@@ -1,16 +1,14 @@
 ---
-title: ''
+title: Otavy
 contentType: prose
 ---
 
-Otavy
+_Je to svist kosy  
+nebo pláč trávy žaté?_
 
-> Je to svist kosy  
-> nebo pláč trávy žaté?
+_Naslouchám v stínu —  
+srdce u trávy._
 
-> Naslouchám v stínu —  
-> srdce u trávy.
-
-> Ach, pokolikáté  
-> slyším tu gilotinu  
-> hromadné popravy?
+_Ach, pokolikáté  
+slyším tu gilotinu  
+hromadné popravy?_
