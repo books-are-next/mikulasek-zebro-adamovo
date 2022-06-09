@@ -1,38 +1,36 @@
 ---
-title: ''
+title: Listopadové elegie
 contentType: prose
 ---
 
-Listopadové elegie
-
 I
 
-> Déšť se sněhem — mé jídlo a mé pití.  
-> A horký brambor mé lásky v dlaních k tomu.  
-> A trochu vytí.
+_Déšť se sněhem — mé jídlo a mé pití.  
+A horký brambor mé lásky v dlaních k tomu.  
+A trochu vytí._
 
-> — — —  
-> Hrdličák zmoklý na větvi  
-> zapomenutého stromu.  
-> Větrem anebo čím  
-> peříčko na hrudi se chví?
+_— — —  
+Hrdličák zmoklý na větvi  
+zapomenutého stromu.  
+Větrem anebo čím  
+peříčko na hrudi se chví?_
 
 II
 
-> Mlč, miláčku — jen ke mně ne.  
-> Vše nevýslovné  
-> se z prsou dere v stenu.
+_Mlč, miláčku — jen ke mně ne.  
+Vše nevýslovné  
+se z prsou dere v stenu._
 
-> Tvé srdce tak něžně ňadrem chráněné —  
-> že surově chce se k němu.
+_Tvé srdce tak něžně ňadrem chráněné —  
+že surově chce se k němu._
 
 III
 
-> Když s očima tak dalekýma,  
-> že jsi mně stále, stále blíž…  
-> Když s očima tak blízko mým,  
-> že už mě ani nevidíš…  
-> Když očima už jenom mýma  
-> zříš pod svým víčkem přivřeným,  
-> že každá z řas tvých navždy stíná  
-> mou hlavu k tvé — jsem slepý již.
+_Když s očima tak dalekýma,  
+že jsi mně stále, stále blíž…  
+Když s očima tak blízko mým,  
+že už mě ani nevidíš…  
+Když očima už jenom mýma  
+zříš pod svým víčkem přivřeným,  
+že každá z řas tvých navždy stíná  
+mou hlavu k tvé — jsem slepý již._

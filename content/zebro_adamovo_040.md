@@ -1,20 +1,18 @@
 ---
-title: ''
+title: Za hrob
 contentType: prose
 ---
 
-Za hrob
+_Nebesa jsou prázdná;  
+nevystoupilas tam.  
+Země pak je pustá;  
+nepohřbila tě.  
+Možná, že tě hostí  
+jen můj očistec,  
+očistec tvých kostí —  
+jež teď v nitru laskám,  
+že se daly, i ty stydkaté,  
+z masa svého svléct._
 
-> Nebesa jsou prázdná;  
-> nevystoupilas tam.  
-> Země pak je pustá;  
-> nepohřbila tě.  
-> Možná, že tě hostí  
-> jen můj očistec,  
-> očistec tvých kostí —  
-> jež teď v nitru laskám,  
-> že se daly, i ty stydkaté,  
-> z masa svého svléct.
-
-> A tma mých očních důlků  
-> není už tak hustá.
+_A tma mých očních důlků  
+není už tak hustá._

@@ -1,22 +1,20 @@
 ---
-title: ''
+title: Spíš
 contentType: prose
 ---
 
-Spíš
+_Spíš zbloudilá v svých snech —  
+kam nemohu._
 
-> Spíš zbloudilá v svých snech —  
-> kam nemohu.
+_Spíš zaživa ve svých snech —  
+kam nechci._
 
-> Spíš zaživa ve svých snech —  
-> kam nechci.
+_Spíš krásná v snění svém —  
+kam se neodvažuji._
 
-> Spíš krásná v snění svém —  
-> kam se neodvažuji.
+_Spíš vzdálená v své smrti —  
+kam nesmím._
 
-> Spíš vzdálená v své smrti —  
-> kam nesmím.
-
-> Spíš těžká na mém srdci,  
-> tluču na tebe —  
-> neprobuď se!
+_Spíš těžká na mém srdci,  
+tluču na tebe —  
+neprobuď se!_

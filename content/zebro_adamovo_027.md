@@ -1,21 +1,19 @@
 ---
-title: ''
+title: Čekání
 contentType: prose
 ---
 
-Čekání
+_A tak tam stál  
+svou věčnost pod hodinami,  
+i když už ručičky dávno  
+spínat se přestaly._
 
-> A tak tam stál  
-> svou věčnost pod hodinami,  
-> i když už ručičky dávno  
-> spínat se přestaly.
+_Jen jeho srdce tlouklo;  
+tlouklo ho do žeber.  
+Znova a pořád a ještě,  
+až byla odraná a nahá._
 
-> Jen jeho srdce tlouklo;  
-> tlouklo ho do žeber.  
-> Znova a pořád a ještě,  
-> až byla odraná a nahá.
-
-> A tak tam stál a stál,  
-> zničený deštěm,  
-> který vždy přispěchá,  
-> když očím chybí vláha.
+_A tak tam stál a stál,  
+zničený deštěm,  
+který vždy přispěchá,  
+když očím chybí vláha._
