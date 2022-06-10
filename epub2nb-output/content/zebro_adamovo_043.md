@@ -3,6 +3,8 @@ title: A to je vše
 contentType: prose
 ---
 
+<section>
+
 _Celý pořezaný uvnitř,  
 i když z hrudi netrčí mi nůž,  
 celý zkrvácený  
@@ -23,6 +25,10 @@ a ze suti zdvíhal se můj prach —
 celý, celý takový budu teprv celý  
 jako sopka pohřbená v svůj kráter._
 
+</section>
+
+<section>
+
 _A pak všechno toto  
 vtisknu si v svou paměť,  
 všechno toto vtěsnám do srdce,  
@@ -41,4 +47,10 @@ co vpeče se snad aspoň do hornin
 pro větší lesk  
 geologie!_
 
+</section>
+
+<section>
+
 _A to je vše._
+
+</section>

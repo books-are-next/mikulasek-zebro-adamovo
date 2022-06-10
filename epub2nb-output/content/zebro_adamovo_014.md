@@ -3,6 +3,8 @@ title: Sólo na schodech
 contentType: prose
 ---
 
+<section>
+
 _Hle, kudy vcházíme,  
 povstal, jenž zve se práh!  
 A kdesi na horách  
@@ -14,6 +16,10 @@ a snad i toho dubu,
 co rozstoupil se v práh  
 a nehýbá se, leží._
 
+</section>
+
+<section>
+
 _Teď mrzne: V dřevu to  
 vzpomínkou na mráz praští  
 a kdeco svěřuje  
@@ -23,6 +29,10 @@ sám v nejkrutější řeži
 slov s ústy na ostří,  
 a posekaný budu._
 
+</section>
+
+<section>
+
 _Pomalé stoupání,  
 stoupání po schodech,  
 a kroky — rubání  
@@ -30,11 +40,19 @@ ve štole chodby šeré.
 Za tebou, šíjí tvou  
 jen o jediný dech._
 
+</section>
+
+<section>
+
 _Krev v žilách rozsvítí  
 tu nad vše vzácnou rudu  
 a zimu nasije;  
 drobounký, ostrý sníh,  
 jakési miserere._
+
+</section>
+
+<section>
 
 _Pak v tichu, které mře,  
 ve vzdáleném sutí  
@@ -47,6 +65,10 @@ kterak je pochopiti,
 u hlasu samého  
 že je mu trudno žíti._
 
+</section>
+
+<section>
+
 _Tak v tichu, které mře,  
 ve vzdáleném sutí  
 zdá se vše ztraceno.  
@@ -54,6 +76,10 @@ Stojíme na prahu,
 práh leží na márách,  
 neslyší na jméno  
 a čtyři hřebíky ho nutí._
+
+</section>
+
+<section>
 
 _Má zatlučenou řeč.  
 Až zatlučou tak mne,  
@@ -68,10 +94,18 @@ jejž pouze milující
 smí mezi polibky  
 tak prudce popadat._
 
+</section>
+
+<section>
+
 _Jak když jdem doubravou  
 a na jazyku s chutí  
 a s chutí v údech,  
 v údech s únavou._
+
+</section>
+
+<section>
 
 _I teď se vzmáhá v nás  
 a v zdlouhavosti libá  
@@ -84,7 +118,15 @@ a úpí v rozsoší
 a chvilka sama se  
 už červy svými hýbá._
 
+</section>
+
+<section>
+
 _— — —_
+
+</section>
+
+<section>
 
 _Kdy přejdu ústa tvá,  
 krk, hlavu doutnavou  
@@ -92,3 +134,5 @@ s dýmnými vlasy, jež
 vzňaly se a nutí  
 porazit sochu tvou  
 pro krásu sousoší?_
+
+</section>

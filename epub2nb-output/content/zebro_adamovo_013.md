@@ -3,6 +3,8 @@ title: Noční
 contentType: prose
 ---
 
+<section>
+
 _Přichází noc,  
 lidé si šeptají, aby ji nerušili  
 a ona sama — samá tykadla,  
@@ -16,12 +18,20 @@ a tvář,
 tvá hladká tvář nad ní  
 v tisíci vráskách se ztrácí._
 
+</section>
+
+<section>
+
 _Přichází noc.  
 Vrbovým proutkem kreslí v proud,  
 po očku ostruhou blýskne,  
 hned zase pohledem dlouhým  
 sledujíc kolejnice —  
 než se zajizví._
+
+</section>
+
+<section>
 
 _Ach, než se zacelí  
 zrak malých pacholátek  
@@ -36,5 +46,11 @@ proti luně, jež se vrhá
 z bělma na chrup,  
 na nýt, na hlas…_
 
+</section>
+
+<section>
+
 _Ó kéž po něm amalgámem,  
 milovaná luno, táhlas…_
+
+</section>

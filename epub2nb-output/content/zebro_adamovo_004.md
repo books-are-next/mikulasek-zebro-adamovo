@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Žebro Adamovo](https://search.mlp.cz/cz/titul/zebro-adamovo/160609/#book-content) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1981. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 29. 10. 2020.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

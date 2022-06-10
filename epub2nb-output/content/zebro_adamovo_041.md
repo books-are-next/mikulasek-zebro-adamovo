@@ -3,6 +3,8 @@ title: Žárlivost
 contentType: prose
 ---
 
+<section>
+
 _Potkal jsem přítele  
 a pozval ho  
 na kousek řeči a trochu vína.  
@@ -12,9 +14,17 @@ a že by nerad přišel pozdě
 — do podivína.  
 A na hřbitov._
 
+</section>
+
+<section>
+
 _Bylo tak krásné, čisté ráno  
 jakoby probuzené z ozvěn.  
 Ach, ano._
+
+</section>
+
+<section>
 
 _Po dohodě  
 s několika známými motýly  
@@ -29,9 +39,17 @@ a že by nerad přišel pozdě
 — do podivína.  
 A na hřbitov._
 
+</section>
+
+<section>
+
 _Bylo tak krásné, čisté ráno  
 jakoby probuzené z ozvěn. —  
 Ach, ano! Bože, ano!_
+
+</section>
+
+<section>
 
 _Jenže pro změnu  
 jsem potkal jeho ženu  
@@ -43,9 +61,17 @@ až z jejich záře někdo oslepne
 a ona v očích těch  
 pak zmizí beze stop._
 
+</section>
+
+<section>
+
 _Bylo tak krásné, čisté ráno  
 jakoby probuzené z ozvěn  
 a jako my — tak samo._
+
+</section>
+
+<section>
 
 _Po dohodě s jejími, tak výmluvnými… těmi…  
 zůstali jsme spolu dlouho němí  
@@ -61,9 +87,17 @@ zrovna přináší mi slina —
 šeptám a šeptám, až zbloudím  
 znovu v černém hvozdě._
 
+</section>
+
+<section>
+
 _Bylo tak krásné, čisté ráno  
 jakoby probuzené z ozvěn —  
 vystlané sluncem a tou slámou._
+
+</section>
+
+<section>
 
 _A my v té chvíli — oba bez podob  
 a vědouce, že pláč se nedokvílí,  
@@ -75,3 +109,5 @@ A kopali si hrob.
 I když i na smrt bylo dávno pozdě.  
 I do podivína.  
 A na hřbitov._
+
+</section>

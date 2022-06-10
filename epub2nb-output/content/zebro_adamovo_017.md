@@ -3,6 +3,8 @@ title: Mé barvy
 contentType: prose
 ---
 
+<section>
+
 _Modrá je modrá  
 jak anonymní nebe.  
 (Nepiš tam!)  
@@ -15,6 +17,10 @@ jako tma v mých očích,
 když vidím už jen kůží  
 a rukama — to tebe._
 
+</section>
+
+<section>
+
 _Modrá mě odere a odrá —  
 ale tu přepískám.  
 Koupím ti na rukávník  
@@ -24,4 +30,10 @@ která je tak velmi červená,
 na tvých budu hledat  
 na úbočích._
 
+</section>
+
+<section>
+
 _A žlutou ve své žluči!_
+
+</section>

@@ -3,6 +3,8 @@ title: Úpění
 contentType: prose
 ---
 
+<section>
+
 _Co to bylo jenom za krajinu —  
 nebo to byl mojí duše stav,  
 co to bylo za krajinu plnou stínů,  
@@ -14,6 +16,10 @@ srdce, žití mého knuta knut,
 že mám v ústech samou potměchuť  
 a hořko, hořko z číší zeměžluče,  
 zlomocného rulíku a blínu?_
+
+</section>
+
+<section>
 
 _Co to bylo jenom za krajinu,  
 ve které jsme zmýlili si ruce,  
@@ -27,6 +33,10 @@ luna lun a otvírá v ní sluje,
 temné sluje touhy hořce milovat,  
 třeba s chutí rulíku a žluče?_
 
+</section>
+
+<section>
+
 _Co to bylo jenom za krajinu,  
 co jsem zbloudil v ní a nyní hynu,  
 nebo se mi mihotavě zdá,  
@@ -38,6 +48,10 @@ vzývám, aby znovu sklížily se v tvar
 mého utrpení, kvílení a zhouby,  
 nářků, hran a vynášených már?_
 
+</section>
+
+<section>
+
 _Co to je, ach, stále za krajinu —  
 nebo je to mojí duše stav,  
 nebo je to mého srdce blud,  
@@ -48,6 +62,10 @@ srdce, žití mého strašný katapult,
 a hořko, hořko z číší zeměžluče,  
 zlomocného rulíku a blínu?_
 
+</section>
+
+<section>
+
 _Co je to, ach, co jen za krajinu?  
 Obludně ve mně roste.  
 Žádný listí šum a žádný splav.  
@@ -55,4 +73,10 @@ Pralesné tvé vlasy a zvířecí srst klínu,
 kterými tak obrostla tvá duše,  
 že v ní zchvácen bloudím dosavad._
 
+</section>
+
+<section>
+
 _Mí drazí šílení, boha za mne proste!_
+
+</section>

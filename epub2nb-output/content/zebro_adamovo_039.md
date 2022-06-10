@@ -3,6 +3,8 @@ title: Na chvíli v očistci
 contentType: prose
 ---
 
+<section>
+
 _Ach, je to svízel!  
 A prodavačky milostí za spáchané hříchy,  
 tedy zbylých kostí z hrobů a krematorií,  
@@ -12,6 +14,10 @@ aby se znovu probudily —
 v podpaží ještě teplo  
 posmrtného spánku._
 
+</section>
+
+<section>
+
 _A jakýsi pán,  
 který se právě vrátil odtamtud  
 s nitrem ještě pomačkaným,  
@@ -19,6 +25,10 @@ věší přes židli dvě hlásné trouby kalhot,
 ach, jaká svízel,  
 že musí zaspat smokingovou noc  
 s klopami, jež se dosud matně lesknou…_
+
+</section>
+
+<section>
 
 _Ach, jaká svízel  
 lámaných kloubů za pultem  
@@ -29,6 +39,10 @@ nebo vám stačí ta ohlodaná kyčel?“
 Kdo mne se někdy zeptá?  
 Kdy přijde můj čas  
 vykostěných vin?_
+
+</section>
+
+<section>
 
 _Ach, jaká svízel,  
 když to už nejde ani chodit  
@@ -50,3 +64,5 @@ budiž i za těmi zády,
 za tou zdí,  
 stále bouranou milióny  
 nedohlédnutelných očí._
+
+</section>
