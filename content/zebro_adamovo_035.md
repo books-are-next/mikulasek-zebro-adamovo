@@ -3,10 +3,16 @@ title: Ars poetica I
 contentType: prose
 ---
 
+<section>
+
 _To tys na lunu dýchla,  
 že tišší je luna.  
 I voda málomluvná —  
 ztichla._
+
+</section>
+
+<section>
 
 _A zmlklá voda,  
 zmlklá do úplňku,  
@@ -20,4 +26,10 @@ a maso smutku svého
 vždy na hák verše věší  
 pro boha živého…_
 
+</section>
+
+<section>
+
 _Pro strašlivého boha._
+
+</section>

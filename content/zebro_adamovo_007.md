@@ -3,6 +3,8 @@ title: Císaři chudých
 contentType: prose
 ---
 
+<section>
+
 > _(Antonínu Trýbovi)_
 
 _Když srdce přibývá jak luny, která sálá  
@@ -12,7 +14,13 @@ Však býti milován — kdo vezme slávu zrnku,
 jež padá do srdcí a srdce náhle malá  
 květ unést nestačí._
 
+</section>
+
+<section>
+
 _Zmizeli v čase slavní orli římští.  
 Zbyl kvítek — orlíček. Když k ránu rosa mží,  
 on v chladné kapce, co se na něm blyští,  
 císaře svého s láskou obráží._
+
+</section>

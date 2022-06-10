@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 _Sepsal jsem tento text na podnět  
 a téma začínajícího autora, který  
@@ -19,15 +15,27 @@ věcech tohoto času, který mi poněkud
 uniká, neboť jsem byl vyvržen  
 na jeho okraj._
 
+</section>
+
+<section>
+
 _Motto: Blázen, kdo hledá lásku.  
              Nalézá nás — tak úslužně.  
              A nastavuje dlaň._
+
+</section>
+
+<section>
 
 _Když prší hned zrána,  
 je to vždycky špatné znamení,  
 znamení sesuvů,  
 z hlediska deště zcela bezvýznamných —  
 ale což prším snad já?_
+
+</section>
+
+<section>
 
 _Kdežto z hlediska slečny,  
 zvláště ortopedické,  
@@ -39,12 +47,20 @@ jejích nohou ve stálém sporu,
 zda je lépe je klásti před sebe  
 nebo od…_
 
+</section>
+
+<section>
+
 _Chodníky vlhnou dojetím  
 nad mou svěží, jitřní úvahou  
 z výše balkónu,  
 hodného aspoň osmi Julií,  
 a popelnice s odpadky jsou připraveny  
 k odvozu na své pohřebiště._
+
+</section>
+
+<section>
 
 _Z jejich hlediska  
 je to vyhlídka na dým spalovny,  
@@ -60,6 +76,10 @@ máme-li být aspoň na chvilku
 a aspoň někdy čistí  
 v tom kolotání světa._
 
+</section>
+
+<section>
+
 _Hle, ze stromu židle, na níž sedím,  
 než mi ji podtrhnou,  
 a řeziny a důvěrné hučení v kamnech  
@@ -67,6 +87,10 @@ a teplo sálavé, v němž ke kůži lne kůže,
 posléze chlad a osiřelé,  
 mútné proudy lávy veškerých Pompejí  
 s přesnými odlitky věčných milenců._
+
+</section>
+
+<section>
 
 _— — —  
 Jsem sice rovněž odpadek,  
@@ -79,6 +103,10 @@ a vlastní popelnici,
 ve které by se vyjímala květina  
 velmi žlutá, řečeno hýřivá —  
 ale napadne to vůbec někoho?_
+
+</section>
+
+<section>
 
 _Snad abych se tedy někoho zeptal,  
 někoho, kdo je mi drahý jako náhradní díl  
@@ -119,6 +147,10 @@ což z hlediska nebytí je holý nesmysl —
 zvlášť domnívati se, že na skále  
 se neuchytí břízka._
 
+</section>
+
+<section>
+
 _(Nebožtík, zalévaný vdovou,  
 je humus příštích lásek.  
 Nic není zcela mrtvo.  
@@ -132,6 +164,10 @@ už pro jeho prý spásu a znovuzrození
 z našich nespočetných kukel,  
 budoucích třepotavých duší.)_
 
+</section>
+
+<section>
+
 _Tak jsem se to snažil rychle zamluvit  
 a pravil jsem jí s jistou vroucností v hlase,  
 že jsem včera viděl v každém plášti  
@@ -141,6 +177,10 @@ vůní smokvoňového těla
 a taky, že bych byl rád srdcem  
 ve zvonu její sukně —  
 něco zase tak triviálního._
+
+</section>
+
+<section>
 
 _A pak mi došlo po těch nočních lahvích  
 s ranami běd a zátek  
@@ -162,6 +202,10 @@ na schválně nahém těle —
 což poznám i na dálku podle chvění srsti  
 náhle ožívajících zvířat._
 
+</section>
+
+<section>
+
 _— — —  
 Tak tedy ještě jednou, dětičky,  
 a sborem:  
@@ -174,6 +218,10 @@ který nic nezakrývá prudkým prázdnem
 své všudypřítomnosti —  
 ale je krásný; proč se nenosí?_
 
+</section>
+
+<section>
+
 _Můj ty bože!  
 (To zvolání je autentické  
 a od onoho začínajícího autora.)  
@@ -184,6 +232,10 @@ Což není vždycky všechno stejně úplně jinak?
 aby si neublížil řečmi,  
 on vydechne duši a už nikdy nepochopí,  
 že jste to myslil dobře.)_
+
+</section>
+
+<section>
 
 _Chtěl jsem jí tedy říci, že z hlediska černé mušle,  
 do které hází slova jako do forbesu,  
@@ -198,6 +250,10 @@ příliš dlouho umírajícího _na to_,
 co se tak pořád zve láskou —  
 aby kdy umřel na něco jiného  
 než na skrčeninu._
+
+</section>
+
+<section>
 
 _Chtěl jsem jí říci, že je čehosi líto  
 jako ptáčka, který vždycky skočí na lůj,  
@@ -219,6 +275,10 @@ drahá paní,
 co vám mám říct,  
 když už nevím, co vám mám říct?_
 
+</section>
+
+<section>
+
 _Snad jen ještě,  
 že krása je pohřížena v sebe  
 a vybízí k rychlé spotřebě  
@@ -230,6 +290,10 @@ leč láska, láska, ta hledá ohniště,
 aby se spálila —  
 a díru do komína k očazení duše…_
 
+</section>
+
+<section>
+
 _A tak jsme zase u té spalovny,  
 jsem plný odpadků, sám odpadek,  
 žel živý dost, abych si šel i sám na pohřeb —  
@@ -240,10 +304,18 @@ s mírnou, tak sladkou hnilobnou vůní
 našeho času  
 a s trapným rozhovorem v to ráno všech rán._
 
+</section>
+
+<section>
+
 _Neboť všechno bylo  
 a je  
 a bude vždycky  
 stejně úplně jinak._
+
+</section>
+
+<section>
 
 _I s city: jak tichá zvěř za zimy  
 tisknou se k sobě na opuštěné pláni  
@@ -254,3 +326,5 @@ _Ó, neplačte, lidé,
 nad pošetilostí stáří,  
 neb ona v tom věku  
 jakousi je i ctí!_
+
+</section>

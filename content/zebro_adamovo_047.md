@@ -3,6 +3,8 @@ title: Jedna z verzí
 contentType: prose
 ---
 
+<section>
+
 _Když mluvím o lásce,  
 nemyslím dvě proucí se i souznějící stehna  
 a černé osení,  
@@ -31,6 +33,10 @@ takže nevíme,
 zda jsme v oblékárně citů  
 nebo ve svlékárně pudů._
 
+</section>
+
+<section>
+
 _Láska je,  
 když o ní nic nevíme  
 a ptáme se,  
@@ -40,3 +46,5 @@ a lomcuje námi
 až do té malé smrti  
 koroptve plné broků a vyvěživší  
 před pádem do ohařovy mordy._
+
+</section>

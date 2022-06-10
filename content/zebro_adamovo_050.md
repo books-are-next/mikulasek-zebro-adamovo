@@ -3,6 +3,8 @@ title: Snědený hlad
 contentType: prose
 ---
 
+<section>
+
 > _(Variace na starší téma)_
 
 _Je to vždycky trochu do krve.  
@@ -19,3 +21,5 @@ nebo žebřík požární
 ze své dávno vyhořelé lásky,  
 z lásky, kterou dávno pozřel  
 snědený už hlad._
+
+</section>

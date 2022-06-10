@@ -3,6 +3,8 @@ title: Osud
 contentType: prose
 ---
 
+<section>
+
 > _(Arnoštu Navrátilovi)_
 
 _S řinkotem skla  
@@ -10,6 +12,10 @@ _S řinkotem skla
 Tvé berle, mé verše ubohé!  
 Osudu rána je vždycky přesná  
 a jinaká už nebude._
+
+</section>
+
+<section>
 
 _Nevíme, čím to je —  
 možná ale tím,  
@@ -21,8 +27,18 @@ Slepce, ty vodí bílí andělé,
 zatímco hluší slyší hoboje  
 a k očím promlouvají němí._
 
+</section>
+
+<section>
+
 _My ležíme nakonec  
 na zemi nebo v zemi —  
 a nebe neuvidíme._
 
+</section>
+
+<section>
+
 _Jen někdy poslední náš dým._
+
+</section>

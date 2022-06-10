@@ -3,6 +3,8 @@ title: Míč
 contentType: prose
 ---
 
+<section>
+
 _Snad jsme tu jen, bychom řekli: Dům, most,  
 studna, brána, džbán, strom ovocný, okno —  
 dokonce: sloup a věž… ale rozuměj, řekli,  
@@ -21,6 +23,10 @@ nic o tom míči,
 který i potmě na mě líčí,  
 zvlášť za měsíčních nocí,  
 když mlčí na měsíc._
+
+</section>
+
+<section>
 
 _Někdy se zakutálí  
 jak odseknutá hlava,  
@@ -47,7 +53,13 @@ a co zmírá
 na oběžné své dráze  
 a nevyšine se z ní nikdy víc…_
 
+</section>
+
+<section>
+
 _Můj míč!  
 Můj drahý míč,  
 mé všecko a mé nic —  
 nehybné ňadro všehomíra._
+
+</section>

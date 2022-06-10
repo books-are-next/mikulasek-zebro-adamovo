@@ -3,6 +3,8 @@ title: Stébélko
 contentType: prose
 ---
 
+<section>
+
 _V té potopitelnosti světa  
 stébélka držel jsem se — v tmě.  
 (Je léto. Žito metá.)  
@@ -11,3 +13,5 @@ stébélko — tak blízké —
 odplouvá ode mne  
 a ve vodě kalné  
 jen z dálky mi blýskne._
+
+</section>
