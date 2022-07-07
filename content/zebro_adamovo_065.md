@@ -20,8 +20,8 @@ na jeho okraj._
 <section>
 
 _Motto: Blázen, kdo hledá lásku.  
-             Nalézá nás — tak úslužně.  
-             A nastavuje dlaň._
+            Nalézá nás — tak úslužně.  
+            A nastavuje dlaň._
 
 </section>
 
