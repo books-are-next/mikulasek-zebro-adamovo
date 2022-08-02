@@ -1,22 +1,22 @@
 ---
 title: Pod platanem
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nad námi platan prostírá  
+Nad námi platan prostírá  
 své větve a své listy.  
 Už ničím, ničím jistý,  
-cítím, že končí hra._
+cítím, že končí hra.
 
 </section>
 
 <section>
 
-_Kmen z barvy v barvu přechází  
+Kmen z barvy v barvu přechází  
 — na slunci had — a blízký  
 mlčení mému, v haluzích  
-prodlužuje tvé stisky._
+prodlužuje tvé stisky.
 
 </section>

@@ -1,36 +1,36 @@
 ---
 title: Na chvíli v očistci
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ach, je to svízel!  
+Ach, je to svízel!  
 A prodavačky milostí za spáchané hříchy,  
 tedy zbylých kostí z hrobů a krematorií,  
 otvírají očistcové krámy  
 (s rachotem),  
 aby se znovu probudily —  
 v podpaží ještě teplo  
-posmrtného spánku._
+posmrtného spánku.
 
 </section>
 
 <section>
 
-_A jakýsi pán,  
+A jakýsi pán,  
 který se právě vrátil odtamtud  
 s nitrem ještě pomačkaným,  
 věší přes židli dvě hlásné trouby kalhot,  
 ach, jaká svízel,  
 že musí zaspat smokingovou noc  
-s klopami, jež se dosud matně lesknou…_
+s klopami, jež se dosud matně lesknou…
 
 </section>
 
 <section>
 
-_Ach, jaká svízel  
+Ach, jaká svízel  
 lámaných kloubů za pultem  
 a slov lámaných v kloubech,  
 když kolena jsou stále plna jiných kolen:  
@@ -38,13 +38,13 @@ když kolena jsou stále plna jiných kolen:
 nebo vám stačí ta ohlodaná kyčel?“  
 Kdo mne se někdy zeptá?  
 Kdy přijde můj čas  
-vykostěných vin?_
+vykostěných vin?
 
 </section>
 
 <section>
 
-_Ach, jaká svízel,  
+Ach, jaká svízel,  
 když to už nejde ani chodit  
 v té řídké astralitě,  
 což si tak lehnout chvíli na břicho,  
@@ -63,6 +63,6 @@ a já jsem jinde,
 budiž i za těmi zády,  
 za tou zdí,  
 stále bouranou milióny  
-nedohlédnutelných očí._
+nedohlédnutelných očí.
 
 </section>

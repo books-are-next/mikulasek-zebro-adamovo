@@ -1,13 +1,13 @@
 ---
 title: Snědený hlad
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 > _(Variace na starší téma)_
 
-_Je to vždycky trochu do krve.  
+Je to vždycky trochu do krve.  
 Ona zří jen na bělásky,  
 jak jí z očí odlétají —  
 a vidí je odlétat;  
@@ -20,6 +20,6 @@ hledají ten východ zadní
 nebo žebřík požární  
 ze své dávno vyhořelé lásky,  
 z lásky, kterou dávno pozřel  
-snědený už hlad._
+snědený už hlad.
 
 </section>

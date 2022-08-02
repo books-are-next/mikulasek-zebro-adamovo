@@ -1,11 +1,11 @@
 ---
 title: A to je vše
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Celý pořezaný uvnitř,  
+Celý pořezaný uvnitř,  
 i když z hrudi netrčí mi nůž,  
 celý zkrvácený  
 po stěnách všech útrob,  
@@ -23,13 +23,13 @@ celý prázdný, jako by se zřítil
 ve mně čísi dům  
 a ze suti zdvíhal se můj prach —  
 celý, celý takový budu teprv celý  
-jako sopka pohřbená v svůj kráter._
+jako sopka pohřbená v svůj kráter.
 
 </section>
 
 <section>
 
-_A pak všechno toto  
+A pak všechno toto  
 vtisknu si v svou paměť,  
 všechno toto vtěsnám do srdce,  
 vryju do vrásek  
@@ -45,12 +45,12 @@ navždy ubije,
 vším tím jednou i navždy budu vším,  
 co vpeče se snad aspoň do hornin  
 pro větší lesk  
-geologie!_
+geologie!
 
 </section>
 
 <section>
 
-_A to je vše._
+A to je vše.
 
 </section>

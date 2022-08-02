@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -27,17 +27,17 @@ _Motto: Blázen, kdo hledá lásku.
 
 <section>
 
-_Když prší hned zrána,  
+Když prší hned zrána,  
 je to vždycky špatné znamení,  
 znamení sesuvů,  
 z hlediska deště zcela bezvýznamných —  
-ale což prším snad já?_
+ale což prším snad já?
 
 </section>
 
 <section>
 
-_Kdežto z hlediska slečny,  
+Kdežto z hlediska slečny,  
 zvláště ortopedické,  
 a s italským deštníčkem,  
 budou mít majitelé černých padáků  
@@ -45,24 +45,24 @@ zacloněný výhled
 a nutně se upnou na míjející štěstí  
 jejích nohou ve stálém sporu,  
 zda je lépe je klásti před sebe  
-nebo od…_
+nebo od…
 
 </section>
 
 <section>
 
-_Chodníky vlhnou dojetím  
+Chodníky vlhnou dojetím  
 nad mou svěží, jitřní úvahou  
 z výše balkónu,  
 hodného aspoň osmi Julií,  
 a popelnice s odpadky jsou připraveny  
-k odvozu na své pohřebiště._
+k odvozu na své pohřebiště.
 
 </section>
 
 <section>
 
-_Z jejich hlediska  
+Z jejich hlediska  
 je to vyhlídka na dým spalovny,  
 pokud jde o jejich duši,  
 dým se unese na mracích, z nichž zaprší,  
@@ -74,25 +74,25 @@ budoucích odpadků,
 ale odpadků není nikdy dost,  
 máme-li být aspoň na chvilku  
 a aspoň někdy čistí  
-v tom kolotání světa._
+v tom kolotání světa.
 
 </section>
 
 <section>
 
-_Hle, ze stromu židle, na níž sedím,  
+Hle, ze stromu židle, na níž sedím,  
 než mi ji podtrhnou,  
 a řeziny a důvěrné hučení v kamnech  
 a teplo sálavé, v němž ke kůži lne kůže,  
 posléze chlad a osiřelé,  
 mútné proudy lávy veškerých Pompejí  
-s přesnými odlitky věčných milenců._
+s přesnými odlitky věčných milenců.
 
 </section>
 
 <section>
 
-_— — —  
+— — —  
 Jsem sice rovněž odpadek,  
 už pro ztuhlost stylu,  
 neboť jsem denně škrcen najatými límci,  
@@ -102,13 +102,13 @@ na závratné dráze k vlastní spalovně
 a vlastní popelnici,  
 ve které by se vyjímala květina  
 velmi žlutá, řečeno hýřivá —  
-ale napadne to vůbec někoho?_
+ale napadne to vůbec někoho?
 
 </section>
 
 <section>
 
-_Snad abych se tedy někoho zeptal,  
+Snad abych se tedy někoho zeptal,  
 někoho, kdo je mi drahý jako náhradní díl  
 držiteli vyšeptalého ševroletu,  
 který přece jen rychleji cílí k smrti  
@@ -145,13 +145,13 @@ která je zlákala do představ
 nepředstavitelného bytí bez ní,  
 což z hlediska nebytí je holý nesmysl —  
 zvlášť domnívati se, že na skále  
-se neuchytí břízka._
+se neuchytí břízka.
 
 </section>
 
 <section>
 
-_(Nebožtík, zalévaný vdovou,  
+(Nebožtík, zalévaný vdovou,  
 je humus příštích lásek.  
 Nic není zcela mrtvo.  
 A náhrobek s andělem se stává  
@@ -162,13 +162,13 @@ Neb žít je nutno — byť sebehůř
 — říká on —  
 už pro jeho prý spásu a znovuzrození  
 z našich nespočetných kukel,  
-budoucích třepotavých duší.)_
+budoucích třepotavých duší.)
 
 </section>
 
 <section>
 
-_Tak jsem se to snažil rychle zamluvit  
+Tak jsem se to snažil rychle zamluvit  
 a pravil jsem jí s jistou vroucností v hlase,  
 že jsem včera viděl v každém plášti  
 jen ten její, co mne ovanul  
@@ -176,13 +176,13 @@ vůní smokvoňového těla
 (aniž jsem sotva tušil, proč smokvoňového),  
 a taky, že bych byl rád srdcem  
 ve zvonu její sukně —  
-něco zase tak triviálního._
+něco zase tak triviálního.
 
 </section>
 
 <section>
 
-_A pak mi došlo po těch nočních lahvích  
+A pak mi došlo po těch nočních lahvích  
 s ranami běd a zátek  
 a v opileckém záchvatu střízlivé jasnovidnosti,  
 že jsem dávno uhranut tou sukniční hranou  
@@ -200,13 +200,13 @@ _že to bylo stejně úplně jinak_,
 a zahalila se do kožišin  
 na schválně nahém těle —  
 což poznám i na dálku podle chvění srsti  
-náhle ožívajících zvířat._
+náhle ožívajících zvířat.
 
 </section>
 
 <section>
 
-_— — —  
+— — —  
 Tak tedy ještě jednou, dětičky,  
 a sborem:  
 _bylo to stejně úplně jinak!_  
@@ -216,13 +216,13 @@ nýbrž kouzelnická hůlčička,
 rozkmitaná hbitými prsty do vějíře,  
 který nic nezakrývá prudkým prázdnem  
 své všudypřítomnosti —  
-ale je krásný; proč se nenosí?_
+ale je krásný; proč se nenosí?
 
 </section>
 
 <section>
 
-_Můj ty bože!  
+Můj ty bože!  
 (To zvolání je autentické  
 a od onoho začínajícího autora.)  
 Můj ty bože!  
@@ -231,13 +231,13 @@ Což není vždycky všechno stejně úplně jinak?
 (Stisknete příteli hrdlo ze strachu,  
 aby si neublížil řečmi,  
 on vydechne duši a už nikdy nepochopí,  
-že jste to myslil dobře.)_
+že jste to myslil dobře.)
 
 </section>
 
 <section>
 
-_Chtěl jsem jí tedy říci, že z hlediska černé mušle,  
+Chtěl jsem jí tedy říci, že z hlediska černé mušle,  
 do které hází slova jako do forbesu,  
 zarachotí na druhé straně jejího Tichého oceánu  
 všechno jiné, jen ne dvaatřicet mincí  
@@ -249,13 +249,13 @@ tvář starého Werthera,
 příliš dlouho umírajícího _na to_,  
 co se tak pořád zve láskou —  
 aby kdy umřel na něco jiného  
-než na skrčeninu._
+než na skrčeninu.
 
 </section>
 
 <section>
 
-_Chtěl jsem jí říci, že je čehosi líto  
+Chtěl jsem jí říci, že je čehosi líto  
 jako ptáčka, který vždycky skočí na lůj,  
 i když už je dávno dějinami žluklý,  
 takže i Šalamoun, ústa samý šrám  
@@ -273,13 +273,13 @@ tak jsem jí tedy řekl, paní,
 co vám mám vlastně říct,  
 drahá paní,  
 co vám mám říct,  
-když už nevím, co vám mám říct?_
+když už nevím, co vám mám říct?
 
 </section>
 
 <section>
 
-_Snad jen ještě,  
+Snad jen ještě,  
 že krása je pohřížena v sebe  
 a vybízí k rychlé spotřebě  
 snadno zkazitelného zboží —  
@@ -288,13 +288,13 @@ kterým je líto čehosi, co zemře,
 neb vše je jen jednou —  
 leč láska, láska, ta hledá ohniště,  
 aby se spálila —  
-a díru do komína k očazení duše…_
+a díru do komína k očazení duše…
 
 </section>
 
 <section>
 
-_A tak jsme zase u té spalovny,  
+A tak jsme zase u té spalovny,  
 jsem plný odpadků, sám odpadek,  
 žel živý dost, abych si šel i sám na pohřeb —  
 tedy, abych vás miloval,  
@@ -302,25 +302,25 @@ má bezúhonná paní,
 s vašimi zase odpadky,  
 s mírnou, tak sladkou hnilobnou vůní  
 našeho času  
-a s trapným rozhovorem v to ráno všech rán._
+a s trapným rozhovorem v to ráno všech rán.
 
 </section>
 
 <section>
 
-_Neboť všechno bylo  
+Neboť všechno bylo  
 a je  
 a bude vždycky  
-stejně úplně jinak._
+stejně úplně jinak.
 
 </section>
 
 <section>
 
-_I s city: jak tichá zvěř za zimy  
+I s city: jak tichá zvěř za zimy  
 tisknou se k sobě na opuštěné pláni  
 a nechápou, co všechno pohřbil sníh…  
-\*_
+\*
 
 _Ó, neplačte, lidé,  
 nad pošetilostí stáří,  

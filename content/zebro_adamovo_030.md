@@ -1,54 +1,54 @@
 ---
 title: Lesní motivy pozdního října
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tak vzdálená a korunovaná  
+Tak vzdálená a korunovaná  
 výhrůžnými vlasy. — A čí?  
 Lesa bezvlasého,  
-ztichlého podzimně._
+ztichlého podzimně.
 
 </section>
 
 <section>
 
-_Tak blízká jako kmen. Jak odvaha  
+Tak blízká jako kmen. Jak odvaha  
 srdce mého  
 být tobě blíž než ty mně.  
 čí ale ty jsi, čí?  
 Mlčení, smíchu, pláče  
-nebo všeho?_
+nebo všeho?
 
 </section>
 
 <section>
 
-_Větvičky nízké šlehají do očí.  
+Větvičky nízké šlehají do očí.  
 — — —  
 Je říjen. Bukové listí  
-laská vzduch a zlatí vlastní pád._
+laská vzduch a zlatí vlastní pád.
 
 </section>
 
 <section>
 
-_Najednou průhlední jsme a čistí  
+Najednou průhlední jsme a čistí  
 jak strom; a každý z nás i svát —  
 jak ono listí.  
 — — —  
 Tu každý strom je sobě pomníkem  
 a ticho hřbitovní  
-nic neruší._
+nic neruší.
 
 </section>
 
 <section>
 
-_Jen my dva bdíme věčným snem  
+Jen my dva bdíme věčným snem  
 o noci, z níž se neprobudíme;  
 o noci — a co v ní  
-zbude po duši._
+zbude po duši.
 
 </section>

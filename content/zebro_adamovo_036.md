@@ -1,64 +1,64 @@
 ---
 title: Malý místopis
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_NICOV  
+NICOV  
 Neříkám nic! Buď ticho!  
 Já mlčím.  
 Necítím nic. A všechno  
 v té obci Nicov  
-pod černým smrčím._
+pod černým smrčím.
 
 </section>
 
 <section>
 
-_KVILDA  
+KVILDA  
 Vlci už šílí.  
 A v týle ježí se jim srst.  
 Však jeden prst,  
 kost samá, samý kloub,  
-masa se nedokvílí._
+masa se nedokvílí.
 
 </section>
 
 <section>
 
-_(Prst Joricka!)_
+(Prst Joricka!)
 
 </section>
 
 <section>
 
-_Je hlad.  
+Je hlad.  
 Morek a dřeň.  
 A duše.  
 Kosti, co nám zbyly.  
 Masa se nedokvílí,  
 kdo kope si sám hrob  
-a jiným…_
+a jiným…
 
 </section>
 
 <section>
 
-_Že někdo naříká?  
+Že někdo naříká?  
 I nářek chodí spát.  
 A někdo hlouběj, hloub  
-pochová hrobníka._
+pochová hrobníka.
 
 </section>
 
 <section>
 
-_LENORA  
+LENORA  
 Že zemřeli? Ach, zemřeli!  
 Pln mrtvých je svět.  
 Těch, umřít co měli i neměli.  
-Když smrt je plod — nač květ?_
+Když smrt je plod — nač květ?
 
 </section>
 

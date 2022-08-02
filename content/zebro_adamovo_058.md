@@ -1,34 +1,34 @@
 ---
 title: Hrana za nás
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ležíš nepohnutě.  
+Ležíš nepohnutě.  
 Já ti tiše spílám.  
 S bolestí i krutě.  
-Krutě, ale hluše._
+Krutě, ale hluše.
 
 </section>
 
 <section>
 
-_Už ani svým slovům  
-v ústech neustýlám._
+Už ani svým slovům  
+v ústech neustýlám.
 
 </section>
 
 <section>
 
-_Ležíš nepohnutě.  
-Náhrobek své duše._
+Ležíš nepohnutě.  
+Náhrobek své duše.
 
 </section>
 
 <section>
 
-_— — —  
-A já — hrob svůj líbám._
+— — —  
+A já — hrob svůj líbám.
 
 </section>

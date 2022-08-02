@@ -1,26 +1,26 @@
 ---
 title: Tvá tvář
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tvá bílá tvář jak padlý sníh.  
+Tvá bílá tvář jak padlý sníh.  
 Zapadám do ní den co den  
-a tonu v tichých závějích._
+a tonu v tichých závějích.
 
 </section>
 
 <section>
 
-_Zapadám do ní černou duší  
+Zapadám do ní černou duší  
 a vycházím z ní nevinen.  
-A co vím já, bůh sotva tuší._
+A co vím já, bůh sotva tuší.
 
 </section>
 
 <section>
 
-_Vím o cestách slz — zavátých._
+Vím o cestách slz — zavátých.
 
 </section>

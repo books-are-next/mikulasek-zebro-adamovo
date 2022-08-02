@@ -1,6 +1,6 @@
 ---
 title: PRŮVODY LÁSKY
-contentType: prose
+contentType: poetry
 ---
 
 

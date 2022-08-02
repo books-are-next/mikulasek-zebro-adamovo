@@ -1,28 +1,28 @@
 ---
 title: Umlčená ústa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tisícero mých úst  
+Tisícero mých úst  
 máš na své tváři;  
-tisícero mých úst._
+tisícero mých úst.
 
 </section>
 
 <section>
 
-_I ústa tvá jsem jimi umlčel;  
-i ústa tvá._
+I ústa tvá jsem jimi umlčel;  
+i ústa tvá.
 
 </section>
 
 <section>
 
-_A ty neříkáš nic  
+A ty neříkáš nic  
 mrtvému zaživa —  
 nic, čím by mohl snad  
-řez napříč srdcem srůst._
+řez napříč srdcem srůst.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Mé barvy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Modrá je modrá  
+Modrá je modrá  
 jak anonymní nebe.  
 (Nepiš tam!)  
 Zelená je zelená  
@@ -15,25 +15,25 @@ když i hůl už pučí),
 červená je červená  
 jako tma v mých očích,  
 když vidím už jen kůží  
-a rukama — to tebe._
+a rukama — to tebe.
 
 </section>
 
 <section>
 
-_Modrá mě odere a odrá —  
+Modrá mě odere a odrá —  
 ale tu přepískám.  
 Koupím ti na rukávník  
 z nejtravnatějšího kára —  
 jen červenou, tu bez jména,  
 která je tak velmi červená,  
 na tvých budu hledat  
-na úbočích._
+na úbočích.
 
 </section>
 
 <section>
 
-_A žlutou ve své žluči!_
+A žlutou ve své žluči!
 
 </section>

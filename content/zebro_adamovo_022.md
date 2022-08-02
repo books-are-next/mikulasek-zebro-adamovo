@@ -1,40 +1,40 @@
 ---
 title: Spíš
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Spíš zbloudilá v svých snech —  
-kam nemohu._
+Spíš zbloudilá v svých snech —  
+kam nemohu.
 
 </section>
 
 <section>
 
-_Spíš zaživa ve svých snech —  
-kam nechci._
+Spíš zaživa ve svých snech —  
+kam nechci.
 
 </section>
 
 <section>
 
-_Spíš krásná v snění svém —  
-kam se neodvažuji._
+Spíš krásná v snění svém —  
+kam se neodvažuji.
 
 </section>
 
 <section>
 
-_Spíš vzdálená v své smrti —  
-kam nesmím._
+Spíš vzdálená v své smrti —  
+kam nesmím.
 
 </section>
 
 <section>
 
-_Spíš těžká na mém srdci,  
+Spíš těžká na mém srdci,  
 tluču na tebe —  
-neprobuď se!_
+neprobuď se!
 
 </section>

@@ -1,20 +1,20 @@
 ---
 title: Ars poetica I
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_To tys na lunu dýchla,  
+To tys na lunu dýchla,  
 že tišší je luna.  
 I voda málomluvná —  
-ztichla._
+ztichla.
 
 </section>
 
 <section>
 
-_A zmlklá voda,  
+A zmlklá voda,  
 zmlklá do úplňku,  
 lunou se zalkla v tůňku  
 jako tvé oko slzou  
@@ -24,12 +24,12 @@ pláč duše, která je si
 i poraněnou múzou  
 a maso smutku svého  
 vždy na hák verše věší  
-pro boha živého…_
+pro boha živého…
 
 </section>
 
 <section>
 
-_Pro strašlivého boha._
+Pro strašlivého boha.
 
 </section>

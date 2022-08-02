@@ -1,6 +1,6 @@
 ---
 title: Míč
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -13,7 +13,7 @@ nemyslily, že jsou._
 
 — RILKE
 
-_Můj tichý míč;  
+Můj tichý míč;  
 můj pes, můj buldog,  
 hlídací můj míč,  
 tak zelený, jak zelené tvé oči  
@@ -22,13 +22,13 @@ a nevím o něm nic;
 nic o tom míči,  
 který i potmě na mě líčí,  
 zvlášť za měsíčních nocí,  
-když mlčí na měsíc._
+když mlčí na měsíc.
 
 </section>
 
 <section>
 
-_Někdy se zakutálí  
+Někdy se zakutálí  
 jak odseknutá hlava,  
 ach, pod lože, ach, lože srdce mého,  
 ztrhaného už všemi smyčci —  
@@ -51,15 +51,15 @@ daleko ode mne
 a od všeho, co končí  
 a co zmírá  
 na oběžné své dráze  
-a nevyšine se z ní nikdy víc…_
+a nevyšine se z ní nikdy víc…
 
 </section>
 
 <section>
 
-_Můj míč!  
+Můj míč!  
 Můj drahý míč,  
 mé všecko a mé nic —  
-nehybné ňadro všehomíra._
+nehybné ňadro všehomíra.
 
 </section>

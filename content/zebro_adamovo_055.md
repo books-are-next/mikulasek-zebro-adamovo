@@ -1,30 +1,30 @@
 ---
 title: Ars poetica II
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pane na nebi!  
+Pane na nebi!  
 Ženo na zemi!  
-Muži v ženě!_
+Muži v ženě!
 
 </section>
 
 <section>
 
-_Slast vína na mém půnebí,  
+Slast vína na mém půnebí,  
 slast lásky nestřežené!  
 Slast verše každého,  
 který spí se všemi  
-v jediné básni!_
+v jediné básni!
 
 </section>
 
 <section>
 
-_Svobodo svobod! Kruté jho  
+Svobodo svobod! Kruté jho  
 luňáka klovajícího  
-do hrudi vlastní!_
+do hrudi vlastní!
 
 </section>
