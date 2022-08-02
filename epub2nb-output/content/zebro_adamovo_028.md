@@ -1,39 +1,39 @@
 ---
 title: Otázky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jsou-li květy ústa stromu —  
+Jsou-li květy ústa stromu —  
 co jsou ústa tvá?  
-A co strom, když květy ztrácí?_
+A co strom, když květy ztrácí?
 
 </section>
 
 <section>
 
-_Je-li listí harfou stromu,  
+Je-li listí harfou stromu,  
 co tvůj hlas?  
 A co strom, když nemají kam  
-skrýt se ptáci?_
+skrýt se ptáci?
 
 </section>
 
 <section>
 
-_A je-li strom  
+A je-li strom  
 jen vyslyšenou prosbou pustin,  
 co jsi ty?  
 A co je strom,  
 jenž krajinu svou neopustí,  
-sám opuštěn už vším — a nah?_
+sám opuštěn už vším — a nah?
 
 </section>
 
 <section>
 
-_A s větvemi zkříženými  
-jako máry na márách?_
+A s větvemi zkříženými  
+jako máry na márách?
 
 </section>

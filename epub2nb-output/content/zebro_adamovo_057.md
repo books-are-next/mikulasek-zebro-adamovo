@@ -1,22 +1,22 @@
 ---
 title: Rozsudek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Co slov jsi pozdvihla  
+Co slov jsi pozdvihla  
 z bezvýznamné role  
-do role mých katů!_
+do role mých katů!
 
 </section>
 
 <section>
 
-_Zastřelen ležím u zdi,  
+Zastřelen ležím u zdi,  
 pověšen za hrdlo visím,  
 hlavu mám sťatu —  
 z jediné věty holé:  
-už jdi…_
+už jdi…
 
 </section>

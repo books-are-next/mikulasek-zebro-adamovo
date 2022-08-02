@@ -1,11 +1,11 @@
 ---
 title: Jedna z verzí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Když mluvím o lásce,  
+Když mluvím o lásce,  
 nemyslím dvě proucí se i souznějící stehna  
 a černé osení,  
 které mnou bolestně proniká,  
@@ -31,13 +31,13 @@ a snaží se zahalit
 nahotou prudce přitisklou k nahotě,  
 takže nevíme,  
 zda jsme v oblékárně citů  
-nebo ve svlékárně pudů._
+nebo ve svlékárně pudů.
 
 </section>
 
 <section>
 
-_Láska je,  
+Láska je,  
 když o ní nic nevíme  
 a ptáme se,  
 co je to láska,  
@@ -45,6 +45,6 @@ která ví o nás všechno
 a lomcuje námi  
 až do té malé smrti  
 koroptve plné broků a vyvěživší  
-před pádem do ohařovy mordy._
+před pádem do ohařovy mordy.
 
 </section>

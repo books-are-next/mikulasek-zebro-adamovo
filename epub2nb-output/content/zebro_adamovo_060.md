@@ -1,22 +1,22 @@
 ---
 title: Kořist
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pořád to dřevo v prsou  
+Pořád to dřevo v prsou  
 a život beze smyslu.  
 Jak jen tu pravdu drsnou  
-v zubech stisknu?_
+v zubech stisknu?
 
 </section>
 
 <section>
 
-_Ať zatínám je jak chci,  
+Ať zatínám je jak chci,  
 do srdce zatínám je.  
 A celá kořist dravčí —  
-že bolest v spárech má mě._
+že bolest v spárech má mě.
 
 </section>

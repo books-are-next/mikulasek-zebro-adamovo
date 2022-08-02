@@ -1,0 +1,1454 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Žebro Adamovo",
+  "author": "Oldřich Mikulášek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "mikulasek-zebro-adamovo-2f40f85",
+  "revision": "2f40f85",
+  "readingOrder": [
+    "promo.html",
+    "zebro_adamovo_001.html",
+    "zebro_adamovo_002.html",
+    "zebro_adamovo_003.html",
+    "zebro_adamovo_004.html",
+    "zebro_adamovo_005.html",
+    "zebro_adamovo_006.html",
+    "zebro_adamovo_007.html",
+    "zebro_adamovo_008.html",
+    "zebro_adamovo_009.html",
+    "zebro_adamovo_010.html",
+    "zebro_adamovo_011.html",
+    "zebro_adamovo_012.html",
+    "zebro_adamovo_013.html",
+    "zebro_adamovo_014.html",
+    "zebro_adamovo_015.html",
+    "zebro_adamovo_016.html",
+    "zebro_adamovo_017.html",
+    "zebro_adamovo_018.html",
+    "zebro_adamovo_019.html",
+    "zebro_adamovo_020.html",
+    "zebro_adamovo_021.html",
+    "zebro_adamovo_022.html",
+    "zebro_adamovo_023.html",
+    "zebro_adamovo_024.html",
+    "zebro_adamovo_025.html",
+    "zebro_adamovo_026.html",
+    "zebro_adamovo_027.html",
+    "zebro_adamovo_028.html",
+    "zebro_adamovo_029.html",
+    "zebro_adamovo_030.html",
+    "zebro_adamovo_031.html",
+    "zebro_adamovo_032.html",
+    "zebro_adamovo_033.html",
+    "zebro_adamovo_034.html",
+    "zebro_adamovo_035.html",
+    "zebro_adamovo_036.html",
+    "zebro_adamovo_037.html",
+    "zebro_adamovo_038.html",
+    "zebro_adamovo_039.html",
+    "zebro_adamovo_040.html",
+    "zebro_adamovo_041.html",
+    "zebro_adamovo_042.html",
+    "zebro_adamovo_043.html",
+    "zebro_adamovo_044.html",
+    "zebro_adamovo_045.html",
+    "zebro_adamovo_046.html",
+    "zebro_adamovo_047.html",
+    "zebro_adamovo_048.html",
+    "zebro_adamovo_049.html",
+    "zebro_adamovo_050.html",
+    "zebro_adamovo_051.html",
+    "zebro_adamovo_052.html",
+    "zebro_adamovo_053.html",
+    "zebro_adamovo_054.html",
+    "zebro_adamovo_055.html",
+    "zebro_adamovo_056.html",
+    "zebro_adamovo_057.html",
+    "zebro_adamovo_058.html",
+    "zebro_adamovo_059.html",
+    "zebro_adamovo_060.html",
+    "zebro_adamovo_061.html",
+    "zebro_adamovo_062.html",
+    "zebro_adamovo_063.html",
+    "zebro_adamovo_064.html",
+    "zebro_adamovo_065.html",
+    "zebro_adamovo_066.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 02 2022 07:57:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659427075616
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zebro_adamovo_001.html",
+      "toc": []
+    },
+    {
+      "title": "Žebro Adamovo",
+      "file": "zebro_adamovo_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "zebro_adamovo_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žebro Adamovo",
+      "file": "zebro_adamovo_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zebro_adamovo_001.html",
+      "next": "zebro_adamovo_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žebro Adamovo",
+      "file": "zebro_adamovo_003.html",
+      "words": 11,
+      "chars": 70,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zebro_adamovo_002.html",
+      "next": "zebro_adamovo_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žebro Adamovo",
+      "file": "zebro_adamovo_004.html",
+      "words": 91,
+      "chars": 615,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zebro_adamovo_003.html",
+      "next": "zebro_adamovo_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZELENÝ MÍČ",
+      "file": "zebro_adamovo_005.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zebro_adamovo_004.html",
+      "next": "zebro_adamovo_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZELENÝ MÍČ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Míč",
+      "file": "zebro_adamovo_006.html",
+      "words": 204,
+      "chars": 983,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zebro_adamovo_005.html",
+      "next": "zebro_adamovo_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Míč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Císaři chudých",
+      "file": "zebro_adamovo_007.html",
+      "words": 68,
+      "chars": 370,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zebro_adamovo_006.html",
+      "next": "zebro_adamovo_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Císaři chudých",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatební píseň o růži",
+      "file": "zebro_adamovo_008.html",
+      "words": 89,
+      "chars": 505,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zebro_adamovo_007.html",
+      "next": "zebro_adamovo_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatební píseň o růži",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chvění milenčino",
+      "file": "zebro_adamovo_009.html",
+      "words": 77,
+      "chars": 409,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zebro_adamovo_008.html",
+      "next": "zebro_adamovo_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chvění milenčino",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vodní krajina",
+      "file": "zebro_adamovo_010.html",
+      "words": 110,
+      "chars": 564,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zebro_adamovo_009.html",
+      "next": "zebro_adamovo_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vodní krajina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Komorní hudba",
+      "file": "zebro_adamovo_011.html",
+      "words": 112,
+      "chars": 643,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zebro_adamovo_010.html",
+      "next": "zebro_adamovo_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Komorní hudba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kresba tuší",
+      "file": "zebro_adamovo_012.html",
+      "words": 125,
+      "chars": 668,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zebro_adamovo_011.html",
+      "next": "zebro_adamovo_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kresba tuší",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční",
+      "file": "zebro_adamovo_013.html",
+      "words": 126,
+      "chars": 701,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zebro_adamovo_012.html",
+      "next": "zebro_adamovo_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sólo na schodech",
+      "file": "zebro_adamovo_014.html",
+      "words": 308,
+      "chars": 1526,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zebro_adamovo_013.html",
+      "next": "zebro_adamovo_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sólo na schodech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÍŠE",
+      "file": "zebro_adamovo_015.html",
+      "words": 1,
+      "chars": 4,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "zebro_adamovo_014.html",
+      "next": "zebro_adamovo_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÍŠE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Menší noční hudba",
+      "file": "zebro_adamovo_016.html",
+      "words": 43,
+      "chars": 233,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 16,
+      "prev": "zebro_adamovo_015.html",
+      "next": "zebro_adamovo_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Menší noční hudba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mé barvy",
+      "file": "zebro_adamovo_017.html",
+      "words": 79,
+      "chars": 401,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 17,
+      "prev": "zebro_adamovo_016.html",
+      "next": "zebro_adamovo_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mé barvy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co má moje milá",
+      "file": "zebro_adamovo_018.html",
+      "words": 123,
+      "chars": 597,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 18,
+      "prev": "zebro_adamovo_017.html",
+      "next": "zebro_adamovo_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co má moje milá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obrázek",
+      "file": "zebro_adamovo_019.html",
+      "words": 34,
+      "chars": 178,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 19,
+      "prev": "zebro_adamovo_018.html",
+      "next": "zebro_adamovo_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obrázek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Loučení",
+      "file": "zebro_adamovo_020.html",
+      "words": 61,
+      "chars": 325,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 20,
+      "prev": "zebro_adamovo_019.html",
+      "next": "zebro_adamovo_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Loučení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Římsa",
+      "file": "zebro_adamovo_021.html",
+      "words": 58,
+      "chars": 299,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 21,
+      "prev": "zebro_adamovo_020.html",
+      "next": "zebro_adamovo_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Římsa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spíš",
+      "file": "zebro_adamovo_022.html",
+      "words": 45,
+      "chars": 217,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 22,
+      "prev": "zebro_adamovo_021.html",
+      "next": "zebro_adamovo_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spíš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sedmé patro",
+      "file": "zebro_adamovo_023.html",
+      "words": 43,
+      "chars": 231,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 23,
+      "prev": "zebro_adamovo_022.html",
+      "next": "zebro_adamovo_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedmé patro",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Něžná",
+      "file": "zebro_adamovo_024.html",
+      "words": 37,
+      "chars": 187,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 24,
+      "prev": "zebro_adamovo_023.html",
+      "next": "zebro_adamovo_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Něžná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Číše",
+      "file": "zebro_adamovo_025.html",
+      "words": 23,
+      "chars": 127,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 25,
+      "prev": "zebro_adamovo_024.html",
+      "next": "zebro_adamovo_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Číše",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otavy",
+      "file": "zebro_adamovo_026.html",
+      "words": 23,
+      "chars": 126,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 26,
+      "prev": "zebro_adamovo_025.html",
+      "next": "zebro_adamovo_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otavy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čekání",
+      "file": "zebro_adamovo_027.html",
+      "words": 50,
+      "chars": 255,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 27,
+      "prev": "zebro_adamovo_026.html",
+      "next": "zebro_adamovo_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čekání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otázky",
+      "file": "zebro_adamovo_028.html",
+      "words": 65,
+      "chars": 325,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 28,
+      "prev": "zebro_adamovo_027.html",
+      "next": "zebro_adamovo_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otázky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jakýsi vítr",
+      "file": "zebro_adamovo_029.html",
+      "words": 46,
+      "chars": 231,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 29,
+      "prev": "zebro_adamovo_028.html",
+      "next": "zebro_adamovo_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jakýsi vítr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní motivy pozdního října",
+      "file": "zebro_adamovo_030.html",
+      "words": 112,
+      "chars": 550,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 30,
+      "prev": "zebro_adamovo_029.html",
+      "next": "zebro_adamovo_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní motivy pozdního října",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jitro",
+      "file": "zebro_adamovo_031.html",
+      "words": 25,
+      "chars": 136,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 31,
+      "prev": "zebro_adamovo_030.html",
+      "next": "zebro_adamovo_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jitro",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Listopadové elegie",
+      "file": "zebro_adamovo_032.html",
+      "words": 118,
+      "chars": 560,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 32,
+      "prev": "zebro_adamovo_031.html",
+      "next": "zebro_adamovo_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Listopadové elegie",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Přípitek",
+      "file": "zebro_adamovo_033.html",
+      "words": 33,
+      "chars": 200,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 33,
+      "prev": "zebro_adamovo_032.html",
+      "next": "zebro_adamovo_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přípitek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "NA CHVÍLI V OČISTCI",
+      "file": "zebro_adamovo_034.html",
+      "words": 4,
+      "chars": 19,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 34,
+      "prev": "zebro_adamovo_033.html",
+      "next": "zebro_adamovo_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "NA CHVÍLI V OČISTCI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ars poetica I",
+      "file": "zebro_adamovo_035.html",
+      "words": 62,
+      "chars": 301,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 35,
+      "prev": "zebro_adamovo_034.html",
+      "next": "zebro_adamovo_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ars poetica I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malý místopis",
+      "file": "zebro_adamovo_036.html",
+      "words": 106,
+      "chars": 529,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 36,
+      "prev": "zebro_adamovo_035.html",
+      "next": "zebro_adamovo_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malý místopis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední navštívení",
+      "file": "zebro_adamovo_037.html",
+      "words": 247,
+      "chars": 1211,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 37,
+      "prev": "zebro_adamovo_036.html",
+      "next": "zebro_adamovo_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední navštívení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neslavný monolog",
+      "file": "zebro_adamovo_038.html",
+      "words": 182,
+      "chars": 967,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 38,
+      "prev": "zebro_adamovo_037.html",
+      "next": "zebro_adamovo_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neslavný monolog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na chvíli v očistci",
+      "file": "zebro_adamovo_039.html",
+      "words": 208,
+      "chars": 1138,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 39,
+      "prev": "zebro_adamovo_038.html",
+      "next": "zebro_adamovo_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na chvíli v očistci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Za hrob",
+      "file": "zebro_adamovo_040.html",
+      "words": 48,
+      "chars": 242,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 40,
+      "prev": "zebro_adamovo_039.html",
+      "next": "zebro_adamovo_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za hrob",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žárlivost",
+      "file": "zebro_adamovo_041.html",
+      "words": 316,
+      "chars": 1535,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 41,
+      "prev": "zebro_adamovo_040.html",
+      "next": "zebro_adamovo_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žárlivost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úpění",
+      "file": "zebro_adamovo_042.html",
+      "words": 301,
+      "chars": 1506,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 42,
+      "prev": "zebro_adamovo_041.html",
+      "next": "zebro_adamovo_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úpění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A to je vše",
+      "file": "zebro_adamovo_043.html",
+      "words": 163,
+      "chars": 854,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 43,
+      "prev": "zebro_adamovo_042.html",
+      "next": "zebro_adamovo_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A to je vše",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Modlitba",
+      "file": "zebro_adamovo_044.html",
+      "words": 21,
+      "chars": 125,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 44,
+      "prev": "zebro_adamovo_043.html",
+      "next": "zebro_adamovo_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Modlitba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PRŮVODY LÁSKY",
+      "file": "zebro_adamovo_045.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 45,
+      "prev": "zebro_adamovo_044.html",
+      "next": "zebro_adamovo_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PRŮVODY LÁSKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Adamův pohled zleže",
+      "file": "zebro_adamovo_046.html",
+      "words": 137,
+      "chars": 686,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 46,
+      "prev": "zebro_adamovo_045.html",
+      "next": "zebro_adamovo_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Adamův pohled zleže",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedna z verzí",
+      "file": "zebro_adamovo_047.html",
+      "words": 153,
+      "chars": 859,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 47,
+      "prev": "zebro_adamovo_046.html",
+      "next": "zebro_adamovo_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedna z verzí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Černá hvězda",
+      "file": "zebro_adamovo_048.html",
+      "words": 47,
+      "chars": 243,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 48,
+      "prev": "zebro_adamovo_047.html",
+      "next": "zebro_adamovo_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Černá hvězda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Povzdechy",
+      "file": "zebro_adamovo_049.html",
+      "words": 106,
+      "chars": 583,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 49,
+      "prev": "zebro_adamovo_048.html",
+      "next": "zebro_adamovo_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Povzdechy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Snědený hlad",
+      "file": "zebro_adamovo_050.html",
+      "words": 72,
+      "chars": 361,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 50,
+      "prev": "zebro_adamovo_049.html",
+      "next": "zebro_adamovo_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Snědený hlad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cosi",
+      "file": "zebro_adamovo_051.html",
+      "words": 47,
+      "chars": 208,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 51,
+      "prev": "zebro_adamovo_050.html",
+      "next": "zebro_adamovo_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cosi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tvá tvář",
+      "file": "zebro_adamovo_052.html",
+      "words": 42,
+      "chars": 193,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 52,
+      "prev": "zebro_adamovo_051.html",
+      "next": "zebro_adamovo_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tvá tvář",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umlčená ústa",
+      "file": "zebro_adamovo_053.html",
+      "words": 37,
+      "chars": 180,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 53,
+      "prev": "zebro_adamovo_052.html",
+      "next": "zebro_adamovo_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Umlčená ústa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pod platanem",
+      "file": "zebro_adamovo_054.html",
+      "words": 39,
+      "chars": 200,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 54,
+      "prev": "zebro_adamovo_053.html",
+      "next": "zebro_adamovo_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pod platanem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ars poetica II",
+      "file": "zebro_adamovo_055.html",
+      "words": 39,
+      "chars": 213,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 55,
+      "prev": "zebro_adamovo_054.html",
+      "next": "zebro_adamovo_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ars poetica II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dimenze",
+      "file": "zebro_adamovo_056.html",
+      "words": 28,
+      "chars": 139,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 56,
+      "prev": "zebro_adamovo_055.html",
+      "next": "zebro_adamovo_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dimenze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozsudek",
+      "file": "zebro_adamovo_057.html",
+      "words": 30,
+      "chars": 153,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 57,
+      "prev": "zebro_adamovo_056.html",
+      "next": "zebro_adamovo_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozsudek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrana za nás",
+      "file": "zebro_adamovo_058.html",
+      "words": 37,
+      "chars": 180,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 58,
+      "prev": "zebro_adamovo_057.html",
+      "next": "zebro_adamovo_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hrana za nás",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stébélko",
+      "file": "zebro_adamovo_059.html",
+      "words": 37,
+      "chars": 187,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 59,
+      "prev": "zebro_adamovo_058.html",
+      "next": "zebro_adamovo_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stébélko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kořist",
+      "file": "zebro_adamovo_060.html",
+      "words": 38,
+      "chars": 180,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 60,
+      "prev": "zebro_adamovo_059.html",
+      "next": "zebro_adamovo_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kořist",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sbohem",
+      "file": "zebro_adamovo_061.html",
+      "words": 53,
+      "chars": 265,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 61,
+      "prev": "zebro_adamovo_060.html",
+      "next": "zebro_adamovo_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sbohem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osud",
+      "file": "zebro_adamovo_062.html",
+      "words": 83,
+      "chars": 421,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 62,
+      "prev": "zebro_adamovo_061.html",
+      "next": "zebro_adamovo_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osud",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Průvody lásky",
+      "file": "zebro_adamovo_063.html",
+      "words": 434,
+      "chars": 2265,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 63,
+      "prev": "zebro_adamovo_062.html",
+      "next": "zebro_adamovo_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Průvody lásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "UTRPENÍ STARÉHO WERTHERA",
+      "file": "zebro_adamovo_064.html",
+      "words": 3,
+      "chars": 24,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 64,
+      "prev": "zebro_adamovo_063.html",
+      "next": "zebro_adamovo_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "UTRPENÍ STARÉHO WERTHERA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žebro Adamovo",
+      "file": "zebro_adamovo_065.html",
+      "words": 1162,
+      "chars": 6318,
+      "ideas": 225,
+      "role": "chapter",
+      "order": 65,
+      "prev": "zebro_adamovo_064.html",
+      "next": "zebro_adamovo_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žebro Adamovo",
+      "file": "zebro_adamovo_066.html",
+      "words": 49,
+      "chars": 321,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 66,
+      "prev": "zebro_adamovo_065.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 6684,
+      "chars": 34909,
+      "ideas": 1475
+    },
+    "chapters": {
+      "words": 6677,
+      "chars": 34865,
+      "ideas": 1470
+    }
+  }
+}

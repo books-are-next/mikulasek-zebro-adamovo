@@ -1,111 +1,111 @@
 ---
 title: Průvody lásky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 > _(Pohřební suita)_
 
-_ÚVOD_
+ÚVOD
 
-_Nech si své vlasy,  
+Nech si své vlasy,  
 tu Medúzinu hlavu.  
 Slyším jen syčení  
-svíjejících se hadů._
+svíjejících se hadů.
 
 </section>
 
 <section>
 
-_Nech si svá ústa,  
+Nech si svá ústa,  
 to dýchám z úst do úst.  
 A radš je, hořící,  
-slov pouhým dýmem zadus._
+slov pouhým dýmem zadus.
 
 </section>
 
 <section>
 
-_Nech si své oči  
+Nech si své oči  
 a pouzavři si je.  
 Tma viditelnější je  
-vždy za měsíčných nocí._
+vždy za měsíčných nocí.
 
 </section>
 
 <section>
 
-_MOLTO ADAGIO, AMOROSO_
+MOLTO ADAGIO, AMOROSO
 
-_Odcházíš tedy… Tak odcházejí  
+Odcházíš tedy… Tak odcházejí  
 vdovy po zesnulém zpěvu.  
 I po drobných krocích někdy zejí  
-propastí ticha._
+propastí ticha.
 
 </section>
 
 <section>
 
-_A zatím někdo, do sebe celý schoulen  
+A zatím někdo, do sebe celý schoulen  
 a ptáčátko jakési v dlaních —  
 na ptáčátko to dýchá.  
-A choulí se i k němu._
+A choulí se i k němu.
 
 </section>
 
 <section>
 
-_POCO A POCO ACCELERANDO, AFFETUOSO_
+POCO A POCO ACCELERANDO, AFFETUOSO
 
-_Dva stromy z jednoho kmene  
+Dva stromy z jednoho kmene  
 vzrůstaly na tom místě.  
 Teď leží svorně bez kořene,  
-navždycky rozdvojeny._
+navždycky rozdvojeny.
 
 </section>
 
 <section>
 
-_Ach, na kolik rakví dřeva!  
+Ach, na kolik rakví dřeva!  
 A v šelestu zbylého listí,  
 ach, na kolik slov, těch známých:  
 „Nezapomeneme  
 na srdce do kůry rytá,  
 aby si zvykala na nůž —  
-a steny.“_
+a steny.“
 
 </section>
 
 <section>
 
-_ALLEGRO, MA NON TROPO, APPASSIONATO_
+ALLEGRO, MA NON TROPO, APPASSIONATO
 
-_Laskáme hedváb na hrudi,  
+Laskáme hedváb na hrudi,  
 tak drahé nám, že jiné —  
 a myslíme na duši,  
 jak je krásně oblá  
 a jak nám zrychluje dech,  
 úplně lokomotivně,  
-že se s námi točí celý les._
+že se s námi točí celý les.
 
 </section>
 
 <section>
 
-_A najednou — bez výstrahy a bez záchranné brzdy —  
+A najednou — bez výstrahy a bez záchranné brzdy —  
 stojíme sami na pustém nádražíčku  
 bez dalších spojů,  
 s obrovskou, prázdnou a jakoby cizí halou  
 plnou ozvěn v hrudi, té vlastní —  
 a s jedinou slunečnicí,  
-která se stáčí zvolna k západu._
+která se stáčí zvolna k západu.
 
 </section>
 
 <section>
 
-_A ptáme se, ovšem jen v duchu,  
+A ptáme se, ovšem jen v duchu,  
 jak se sluší na inkognito  
 tohoto dnes už trapného hoře,  
 nač je dobrý onen věčně se cukající sval  
@@ -114,98 +114,98 @@ To ho radš vyrvat z prsou
 i s temnými komorami na vyvolávání běsů  
 a rovnou hodit psům.  
 Ti aspoň slastně mlasknou  
-a hledí úpěnlivě na naši štědrou ruku._
+a hledí úpěnlivě na naši štědrou ruku.
 
 </section>
 
 <section>
 
-_MODERATO, SEMPLICE_
+MODERATO, SEMPLICE
 
-_A průvod kráčí dál._
+A průvod kráčí dál.
 
 </section>
 
 <section>
 
-_Tvou dlouhou, bílou vlečku,  
+Tvou dlouhou, bílou vlečku,  
 můj sametový plášť  
-drží pážata._
+drží pážata.
 
 </section>
 
 <section>
 
-_A kolem samá tráva,  
+A kolem samá tráva,  
 červnová, svěží, čistá,  
-vysoká, nežatá._
+vysoká, nežatá.
 
 </section>
 
 <section>
 
-_Pak jak by trávy ubývalo  
-a stále více pošlapaných květů._
+Pak jak by trávy ubývalo  
+a stále více pošlapaných květů.
 
 </section>
 
 <section>
 
-_Odkudsi z boku ostře válo  
-na naši druhou větu._
+Odkudsi z boku ostře válo  
+na naši druhou větu.
 
 </section>
 
 <section>
 
-_A náhle tráva, ach, tak nízká  
-jak na rovu._
+A náhle tráva, ach, tak nízká  
+jak na rovu.
 
 </section>
 
 <section>
 
-_Někdo chvilku hořce pláče.  
+Někdo chvilku hořce pláče.  
 Někdo si jen drobně stýská —  
-až do hrobu._
+až do hrobu.
 
 </section>
 
 <section>
 
-_TEMPO PRIMO, MORENDO_
+TEMPO PRIMO, MORENDO
 
-_Zdaleka není podzim. Je jaro.  
+Zdaleka není podzim. Je jaro.  
 Zas kvete kaštan a bez.  
 A čehosi, čehosi je líto —  
-tam uvnitř — čehosi přes._
+tam uvnitř — čehosi přes.
 
 </section>
 
 <section>
 
-_Zdaleka není zima. Je léto.  
+Zdaleka není zima. Je léto.  
 A čehosi líto je  
 ve chvíli takovéto:  
-že už jsi nemoje._
+že už jsi nemoje.
 
 </section>
 
 <section>
 
-_Zdaleka není jaro. Je podzim.  
+Zdaleka není jaro. Je podzim.  
 A čehosi zase je líto.  
 Tak líto, ach, tak líto —  
-že už to nebolí. Že už nebolí to._
+že už to nebolí. Že už nebolí to.
 
 </section>
 
 <section>
 
-_Zdaleka není léto. Je zima.  
+Zdaleka není léto. Je zima.  
 Kol samá čerň a běl.  
 A líto je mi, líto,  
 že nevzpomínám si čeho —  
-a nač jsem už zapomněl._
+a nač jsem už zapomněl.
 
 </section>

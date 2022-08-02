@@ -1,57 +1,57 @@
 ---
 title: Co má moje milá
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Moje milá má vlasy._
+Moje milá má vlasy.
 
 </section>
 
 <section>
 
-_Když je rozprostře na polštář  
+Když je rozprostře na polštář  
 — černé plameny —  
 i mně se z hlavy dýmí,  
 takže se zatmívá na našem požářišti.  
 A já je mnu, já siný,  
 jeden po druhém,  
 a já je mnu na loži ubohém  
-jak prach a popel příští._
+jak prach a popel příští.
 
 </section>
 
 <section>
 
-_Moje milá má ústa.  
+Moje milá má ústa.  
 Tenkrát při stvoření  
 ťal šťastně lucifer —  
 až k srdci.  
 A jeho šavle stále proniká  
 až k hlubokému smutku básníka,  
 jenž ví, že v koutcích spí  
-dva luciferci._
+dva luciferci.
 
 </section>
 
 <section>
 
-_Moje milá má oči.  
+Moje milá má oči.  
 Miluji její levé oko,  
 ve kterém je láska.  
 Miluji její pravé oko,  
-ve kterém je bolest._
+ve kterém je bolest.
 
 </section>
 
 <section>
 
-_Zavři své oči,  
+Zavři své oči,  
 miláčku,  
 a pochovej mne v nich  
 jak slzu pod víčkem,  
 horkou i nekanoucí  
-pro bolest ani pro lásku._
+pro bolest ani pro lásku.
 
 </section>

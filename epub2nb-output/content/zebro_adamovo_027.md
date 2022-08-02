@@ -1,31 +1,31 @@
 ---
 title: Čekání
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_A tak tam stál  
+A tak tam stál  
 svou věčnost pod hodinami,  
 i když už ručičky dávno  
-spínat se přestaly._
+spínat se přestaly.
 
 </section>
 
 <section>
 
-_Jen jeho srdce tlouklo;  
+Jen jeho srdce tlouklo;  
 tlouklo ho do žeber.  
 Znova a pořád a ještě,  
-až byla odraná a nahá._
+až byla odraná a nahá.
 
 </section>
 
 <section>
 
-_A tak tam stál a stál,  
+A tak tam stál a stál,  
 zničený deštěm,  
 který vždy přispěchá,  
-když očím chybí vláha._
+když očím chybí vláha.
 
 </section>

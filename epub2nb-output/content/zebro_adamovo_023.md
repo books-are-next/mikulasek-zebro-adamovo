@@ -1,28 +1,28 @@
 ---
 title: Sedmé patro
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Slyším tvůj přerývaný dech,  
+Slyším tvůj přerývaný dech,  
 jak stoupáš ke mně po schodech  
-sedmého patra lásky._
+sedmého patra lásky.
 
 </section>
 
 <section>
 
-_A jako křik ptačí po kraji  
+A jako křik ptačí po kraji  
 se v nitru rozeznívají  
-tvých kroků samohlásky._
+tvých kroků samohlásky.
 
 </section>
 
 <section>
 
-_Pak staneš ve mně — přetichá —  
+Pak staneš ve mně — přetichá —  
 a duše ani nedýchá,  
-aby tě neodvála zpátky._
+aby tě neodvála zpátky.
 
 </section>

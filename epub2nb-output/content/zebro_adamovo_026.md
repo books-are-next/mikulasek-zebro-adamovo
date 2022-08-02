@@ -1,26 +1,26 @@
 ---
 title: Otavy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Je to svist kosy  
-nebo pláč trávy žaté?_
+Je to svist kosy  
+nebo pláč trávy žaté?
 
 </section>
 
 <section>
 
-_Naslouchám v stínu —  
-srdce u trávy._
+Naslouchám v stínu —  
+srdce u trávy.
 
 </section>
 
 <section>
 
-_Ach, pokolikáté  
+Ach, pokolikáté  
 slyším tu gilotinu  
-hromadné popravy?_
+hromadné popravy?
 
 </section>

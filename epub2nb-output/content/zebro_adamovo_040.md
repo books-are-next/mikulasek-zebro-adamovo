@@ -1,11 +1,11 @@
 ---
 title: Za hrob
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nebesa jsou prázdná;  
+Nebesa jsou prázdná;  
 nevystoupilas tam.  
 Země pak je pustá;  
 nepohřbila tě.  
@@ -14,13 +14,13 @@ jen můj očistec,
 očistec tvých kostí —  
 jež teď v nitru laskám,  
 že se daly, i ty stydkaté,  
-z masa svého svléct._
+z masa svého svléct.
 
 </section>
 
 <section>
 
-_A tma mých očních důlků  
-není už tak hustá._
+A tma mých očních důlků  
+není už tak hustá.
 
 </section>

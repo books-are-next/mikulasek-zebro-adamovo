@@ -1,17 +1,17 @@
 ---
 title: Přípitek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_To mžení, které připomíná  
+To mžení, které připomíná  
 pláč andělů —  
 a spadlé listí zas  
 čas novorozeného vína —  
 nás všechny muže povždy spíná,  
 abychom sklenky zamžené  
 pozdvihli k ústům, pijáci těch úst,  
-chutnajících tak červeně._
+chutnajících tak červeně.
 
 </section>

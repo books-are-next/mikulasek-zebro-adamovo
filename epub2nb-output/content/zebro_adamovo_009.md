@@ -1,38 +1,38 @@
 ---
 title: Chvění milenčino
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tak ztrácela ses v drobném chvění,  
+Tak ztrácela ses v drobném chvění,  
 že čekal jsem, kdy perly tvé  
 v jakémsi smíchu, v zaperlení  
-se skutálejí — perly tvé —_
+se skutálejí — perly tvé —
 
 </section>
 
 <section>
 
-_až na mělké dno, do rakve,  
+až na mělké dno, do rakve,  
 do hrobu mezi ňadry tvými,  
 kam pochováváš vzdechy své. —  
-Leč ukrutnější ještě zimy_
+Leč ukrutnější ještě zimy
 
 </section>
 
 <section>
 
-_jako by přešly po jméně,  
+jako by přešly po jméně,  
 jež v hrdle tvém, v tom stvolu trávy,  
-se vzdalo šťavám zeleně,_
+se vzdalo šťavám zeleně,
 
 </section>
 
 <section>
 
-_šťavám v nejprudším zavzlykání. —  
+šťavám v nejprudším zavzlykání. —  
 Tak drobila ses bez ustání  
-rybkám v své tůni bezedné._
+rybkám v své tůni bezedné.
 
 </section>

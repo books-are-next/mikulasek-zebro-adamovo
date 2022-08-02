@@ -1,21 +1,21 @@
 ---
 title: Něžná
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ty drobné vlásky, vlásky v týle,  
+Ty drobné vlásky, vlásky v týle,  
 ty poznámečky na okraj.  
 Kat zachvěl by se po motýlech,  
 kdyby je zutínati měl  
-— hromadný vrah —._
+— hromadný vrah —.
 
 </section>
 
 <section>
 
-_A i ten meč by hanbou znachověl  
-nad onou hlavou v pilinách._
+A i ten meč by hanbou znachověl  
+nad onou hlavou v pilinách.
 
 </section>

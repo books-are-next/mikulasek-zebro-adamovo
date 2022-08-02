@@ -1,6 +1,6 @@
 ---
 title: ČÍŠE
-contentType: prose
+contentType: poetry
 ---
 
 

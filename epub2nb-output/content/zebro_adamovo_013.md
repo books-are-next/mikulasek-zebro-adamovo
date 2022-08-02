@@ -1,11 +1,11 @@
 ---
 title: Noční
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Přichází noc,  
+Přichází noc,  
 lidé si šeptají, aby ji nerušili  
 a ona sama — samá tykadla,  
 dorozumívá se mlčky  
@@ -16,24 +16,24 @@ hned zamrazí jej lehce,
 hle, hladina elektrizovaná  
 a tvář,  
 tvá hladká tvář nad ní  
-v tisíci vráskách se ztrácí._
+v tisíci vráskách se ztrácí.
 
 </section>
 
 <section>
 
-_Přichází noc.  
+Přichází noc.  
 Vrbovým proutkem kreslí v proud,  
 po očku ostruhou blýskne,  
 hned zase pohledem dlouhým  
 sledujíc kolejnice —  
-než se zajizví._
+než se zajizví.
 
 </section>
 
 <section>
 
-_Ach, než se zacelí  
+Ach, než se zacelí  
 zrak malých pacholátek  
 na dětských postýlkách,  
 než ústa se zaklapnou všem škeblím,  
@@ -44,13 +44,13 @@ stromy se spiknou a trčí
 kopinatě vzhůru  
 proti luně, jež se vrhá  
 z bělma na chrup,  
-na nýt, na hlas…_
+na nýt, na hlas…
 
 </section>
 
 <section>
 
-_Ó kéž po něm amalgámem,  
-milovaná luno, táhlas…_
+Ó kéž po něm amalgámem,  
+milovaná luno, táhlas…
 
 </section>

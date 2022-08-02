@@ -1,25 +1,25 @@
 ---
 title: Menší noční hudba
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zas prší — drahý déšť!  
+Zas prší — drahý déšť!  
 A spěchá; co mi chce?  
 O tobě nese zvěst,  
 pod okny tisíc hvězd  
-jiskřící tařice._
+jiskřící tařice.
 
 </section>
 
 <section>
 
-_Jak dojemně jsou malé  
+Jak dojemně jsou malé  
 a z nejkrásnějších jmen si  
 neumějí vybrat.  
 Zpod podpatků zní stále  
 noční hudba menší  
-raženého stříbra._
+raženého stříbra.
 
 </section>
