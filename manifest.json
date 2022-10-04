@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-zebro-adamovo-4b8c3a9",
-  "revision": "4b8c3a9",
+  "identifier": "mikulasek-zebro-adamovo-6d962dc",
+  "revision": "6d962dc",
   "readingOrder": [
     "promo.html",
     "zebro_adamovo_005.html",
@@ -75,8 +75,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:47:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664902034172
+    "date": "Tue Oct 04 2022 18:42:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908937666
   },
   "documents": [
     {
