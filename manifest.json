@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-zebro-adamovo-ccc21e0",
-  "revision": "ccc21e0",
+  "identifier": "mikulasek-zebro-adamovo-29f0dd5",
+  "revision": "29f0dd5",
   "readingOrder": [
     "promo.html",
     "zebro_adamovo_005.html",
@@ -75,8 +75,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:44:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416653222
+    "date": "Fri Oct 14 2022 18:23:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665771818094
   },
   "documents": [
     {
@@ -1316,9 +1316,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 132,
-      "chars": 903,
-      "ideas": 13,
+      "words": 136,
+      "chars": 940,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "zebro_adamovo_064.html",
@@ -1336,9 +1336,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6662,
-      "chars": 34801,
-      "ideas": 1463
+      "words": 6666,
+      "chars": 34838,
+      "ideas": 1464
     },
     "chapters": {
       "words": 6524,
