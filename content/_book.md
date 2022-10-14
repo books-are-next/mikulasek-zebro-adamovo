@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2789-5
 readingOrder:
   - promo.html
   - zebro_adamovo_005.html
